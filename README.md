@@ -1,4 +1,4 @@
-<p align="center"><img src="./app/assets/images/SealCircle.png" width="150px" height="150px" alt="modrealms logo"></p>
+<p align="center"><img src="https://i.imgur.com/bI9IPZB.png" width="150px" height="150px" alt="logo"></p>
 
 <h1 align="center">FTBHungary Launcher</h1>
 
